@@ -33,14 +33,14 @@ if (__filename.includes('node_modules') === false) {
 // ⚡ ULTRA PRO MAX SETTINGS
 const settings = {
   // 🌟 Branding & Identity
-  botName: "Arslan-Ai",
-  packname: "Arslan-Ai Premium Pack",
-  author: "ArslanMD Official",
+  botName: "ROCHANA-MD",
+  packname: "ROCHANA-MD Premium Pack",
+  author: "ROCHANA-MD Official",
   version: "3.0.0", // Major version upgrade
   
   // 👑 Ownership
-  botOwner: "ArslanMD",
-  ownerNumber: "923237045919",
+  botOwner: "ROCHANA MD",
+  ownerNumber: "94766443560",
   coOwners: [], // Add secondary owners if needed
   
   // ⚙️ Operation Modes
@@ -56,7 +56,7 @@ const settings = {
   
   autoReply: {
     status: true,
-    message: "🤖 Arslan-MD is currently busy. I'll reply soon!"
+    message: "🤖 ROCHANA-MD is currently busy. I'll reply soon!"
   },
   
   // 🔐 Security
